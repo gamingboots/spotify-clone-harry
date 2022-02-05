@@ -29,6 +29,6 @@ $ git push origin master
 
 ## Instructions
 
-You are provided with some assets - in the `images` folder, you will find the necessary images, and the text is ready for you in the `index.html` file. Write your HTML and CSS code in the `index.html` and `styles/style.css` files, respectively. Remember to follow the best practices.You are free to fork this repo and edit it, This code was written after watching a youtube tutorial by [Code With Harry](https://www.youtube.com/c/CodeWithHarry).
+You are provided with some assets you will find the necessary images in the folder present already, and the text is ready for you in the `index.html` file. Write your HTML and CSS code in the `index.html` and `style.css` files, respectively. Remember to follow the best practices.You are free to fork this repo and edit it, This code was written after watching a youtube tutorial by [Code With Harry](https://www.youtube.com/c/CodeWithHarry).
 
 Happy coding! ❤️
